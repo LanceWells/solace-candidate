@@ -1,3 +1,7 @@
+# Bugs
+
+1. The search does not work with numbers. This is due to the integers being too large for an integer type. I would have like to have fixed this, but did not to respect the time constraints.
+
 # Other improvements
 
 ## Database
